@@ -1,6 +1,5 @@
 # Temperature_Humidity_SensorNode_PCB_Layout
-This design is a Sensor Node for IoT applications, utilizing the ESP32 for Thread and BLE communication to transmit temperature and humidity data to a remote gateway.
-The design includes a USB interface for power only, an ESP32-H2-MINI-1-N4 for Thread and BLE connectivity, an SHT40 sensor for temperature and humidity measurement, and a buck converter to regulate 5V and 3.3V power.
+This Sensor Node is designed for IoT applications, leveraging the ESP32-H2-MINI-1-N4 for Thread and BLE communication to transmit temperature and humidity data to a remote gateway. The design features a USB interface for power only, an SHT40 sensor for precise environmental monitoring, and a buck converter to efficiently regulate 5V and 3.3V power.
 
 ![Screenshot 2025-03-24 180629](https://github.com/user-attachments/assets/8e4638be-8ee4-41f7-b5bb-bacacdae9ebe)
 ![Screenshot 2025-03-24 180646](https://github.com/user-attachments/assets/9c0cf4ce-dedd-43d7-9da8-d45161b226ee)
