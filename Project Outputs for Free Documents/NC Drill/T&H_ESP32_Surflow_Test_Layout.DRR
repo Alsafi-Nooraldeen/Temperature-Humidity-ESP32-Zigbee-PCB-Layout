@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: T&H_ESP32_Surflow_Test_Layout.PcbDoc   3/10/2025  4:27:18 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 to L4
+ASCII RoundHoles File : T&H_ESP32_Surflow_Test_Layout-RoundHoles.TXT
+ASCII SlotHoles File : T&H_ESP32_Surflow_Test_Layout-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             100       PTH        11.73inch (297.91mm)
+T2      30mil (0.762mm)                                           Slot              2         PTH        0.79inch (20.00mm)
+T3      40mil (1.02mm)                                            Round             6         PTH        1.47inch (37.31mm)
+T4      67mil (1.71mm)                                            Round             2         PTH        0.36inch (9.22mm)
+T5      32mil (0.8mm)                                             Round             2         NPTH       0.26inch (6.60mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              112
+
+Total Processing Time (hh:mm:ss) : 00:00:01

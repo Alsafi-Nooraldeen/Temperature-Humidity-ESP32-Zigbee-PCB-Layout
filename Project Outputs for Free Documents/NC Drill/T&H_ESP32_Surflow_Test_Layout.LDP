@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\T&H_ESP32_Surflow_Test_Layout\T&H_ESP32_Surflow_Test_Layout.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=t&h_esp32_surflow_test_layout-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=t&h_esp32_surflow_test_layout-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl
